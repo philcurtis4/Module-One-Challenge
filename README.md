@@ -11,3 +11,8 @@ The rutgers boot camp created with some edits by Philip Curtis.
 **ChangeLog**<br>
 Alts were added for iamges<br>
 Css was consolidated
+
+**Screenshot**<br>
+![Screenshot of website](./assets/images/first_screenshot.jpg)<br>
+![Screenshot of website](./assets/images/second_screenshot.jpg)<br>
+![Screenshot of website](./assets/images/third_screenshot%20-%20Copy.jpg)<br>
